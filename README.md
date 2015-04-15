@@ -1,4 +1,4 @@
-Quick wizrad webapp
+Quick wizard webapp
 ===================
 
 This as a project which can be used to quickly develop any web application. No need to worry about stack and framework setup.
